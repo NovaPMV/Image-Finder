@@ -1,5 +1,7 @@
 # Image Finder — by NovaPMV
 
+<img width="1280" height="600" alt="ImageFinderGIF" src="https://github.com/user-attachments/assets/ba47ef5f-645c-4046-9ee0-2e5ea08e7443" />
+
 A local app that lets you **search a folder of images by typing what you want**
 ("girl in a red dress", "wearing glasses", "tongue out") and instantly
 get a grid of matching pictures. Select the ones you like and copy the originals
