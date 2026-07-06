@@ -1,7 +1,7 @@
 # Image Finder — by NovaPMV
 
 A local app that lets you **search a folder of images by typing what you want**
-("girl in a red dress", "sunset over water", "close up of a dog") and instantly
+("girl in a red dress", "wearing glasses", "tongue out") and instantly
 get a grid of matching pictures. Select the ones you like and copy the originals
 into a folder, ready to use however you need. You can also just browse everything
 and copy without searching.
