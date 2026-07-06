@@ -436,9 +436,9 @@ lot of space.
 
 ## A note from Nova
 
-This is the image sibling of my TikTok Sorter project — same idea, but for
+This is super similar to my TikTok Sorter project — exact same layout, but for
 pictures instead of clips, and simpler under the hood since there's no ffmpeg or
-frames involved. Feel free to rip this apart and add any features (or fix any bugs)
-you see fit. Some things I'd like to add down the line: OCR for finding text in
-images, face/person detection, and color matching. If you have any issues or
+frames involved. Since I reused the same UI, it's not as optimized for displaying 
+images, but it still works just fine. Feel free to mess around with the code if you 
+want to make something that works a bit better. If you have any issues or
 suggestions, message me on Discord @novapmv. Hope you get some use out of it!
